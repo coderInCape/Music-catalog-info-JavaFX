@@ -1,0 +1,25 @@
+.root{
+	-fx-spacing: 10;
+}
+
+.label{
+	-fx-padding: 5px;
+}
+
+#addRemoveBox   {
+	-fx-alignment: center;
+}
+
+
+#sortBox{
+	-fx-alignment: center;
+}
+
+#filterBox{
+	-fx-alignment: center;
+}
+
+#saveBox{
+	-fx-alignment: top-right;
+}
+
